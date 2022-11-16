@@ -11,6 +11,7 @@ put body on and to json file
 
 
 {
+
     "title":"simplebook",
 
     "author":"rezahayati",
@@ -24,6 +25,7 @@ put body on and to json file
 response well be
 
 {
+
     "Id": "f1b4a5f8228da4c8960b37b8b87b5bba",
     
     "Title": "simplebook",
@@ -43,6 +45,7 @@ http://localhost:8080 post request
 
 
 {
+
    "bookid": "f1b4a5f8228da4c8960b37b8b87b5bba",
    
    "user":"hayati",
@@ -60,6 +63,7 @@ and response well be
 
 
    {
+   
         "Pos": 4,
         
         "Data": {
