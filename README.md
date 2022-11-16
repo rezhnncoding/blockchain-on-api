@@ -23,6 +23,9 @@ response well be
 
 
 then you get book id and checkout date that reposnsed to you and paste in blockpost route to post a block
+http://localhost:8080 post request 
+
+
 
 {
    "bookid": "f1b4a5f8228da4c8960b37b8b87b5bba",
@@ -33,7 +36,8 @@ then you get book id and checkout date that reposnsed to you and paste in blockp
 
 
 and last step you can get your blockchain api that created by using 
-http://localhost:8080
+http://localhost:8080   put on get request
+
 
 and response well be 
    {
