@@ -4,7 +4,7 @@ api on blockchain project
 
 to create new book api
 
-http://localhost:8080\new
+http://localhost:8080\new    post request
 
 put body on and to json file 
 
