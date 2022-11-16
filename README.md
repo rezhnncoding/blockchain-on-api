@@ -18,7 +18,6 @@ put body on and to json file
     "isbn":"101010",
 
     "publishdate":"2020,1,6"
-
 }
 
 
@@ -34,7 +33,6 @@ response well be
     "PublishDate": "2020,1,6",
     
     "isbn": "101010"
-    
 }
 
 
@@ -45,13 +43,11 @@ http://localhost:8080 post request
 
 
 {
-
    "bookid": "f1b4a5f8228da4c8960b37b8b87b5bba",
    
    "user":"hayati",
    
    "checkoutdate":"2020,1,6"
-   
 }
 
 
@@ -83,6 +79,5 @@ and response well be
         "Hash": "22bb0c5e354c60853911d7c169af3cca110adc592797798fc9df788437a016b9",
         
         "PrevHash": "73695c47a53758b5afcabbe175f0cb88f0f5af2611c1cb1d9f0141a15847bba8"
-        
-   }
-]
+         }
+         ]
