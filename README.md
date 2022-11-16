@@ -12,13 +12,13 @@ put body on and to json file
 
 {
 
-    "title":"simplebook",
+    "title":      "simplebook",
 
-    "author":"rezahayati",
+    "author":     "rezahayati",
 
-    "isbn":"101010",
+    "isbn":         "101010",
 
-    "publishdate":"2020,1,6"
+    "publishdate":  "2020,1,6"
 }
 
 
