@@ -42,16 +42,15 @@ response well be
 then you get book id and checkout date that reposnsed to you and paste in blockpost route to post a block
 http://localhost:8080 post request 
 
-
-
 {
 
    "bookid":    "f1b4a5f8228da4c8960b37b8b87b5bba",
    
-   "user":      "hayati",
+   "user":           "hayati",
    
    "checkoutdate":  "2020,1,6"
-}
+   
+   }
 
 
 and last step you can get your blockchain api that created by using 
