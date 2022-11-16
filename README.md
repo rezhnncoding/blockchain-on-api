@@ -8,17 +8,19 @@ http://localhost:8080\new    post request
 
 put body on and to json file 
 
+
+
 {
+    "title":"simplebook",
 
-"title":"simplebook",
+    "author":"rezahayati",
 
-"author":"rezahayati",
+    "isbn":"101010",
 
-"isbn":"101010",
-
-"publishdate":"2020,1,6"
+    "publishdate":"2020,1,6"
 
 }
+
 
 response well be
 
@@ -75,14 +77,12 @@ and response well be
             "IsGenesis": false
             
         },
-        
-        
+    
         "TimeStamp": "2022-11-16 10:20:38.6469125 +0330 +0330 m=+553.980378801",
         
         "Hash": "22bb0c5e354c60853911d7c169af3cca110adc592797798fc9df788437a016b9",
         
         "PrevHash": "73695c47a53758b5afcabbe175f0cb88f0f5af2611c1cb1d9f0141a15847bba8"
         
-    }
-    
+   }
 ]
