@@ -46,12 +46,11 @@ http://localhost:8080 post request
 
 {
 
-   "bookid": "f1b4a5f8228da4c8960b37b8b87b5bba",
+   "bookid":    "f1b4a5f8228da4c8960b37b8b87b5bba",
    
-   "user":"hayati",
+   "user":      "hayati",
    
-   "checkoutdate":"2020,1,6"
-
+   "checkoutdate":  "2020,1,6"
 }
 
 
